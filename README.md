@@ -1,4 +1,4 @@
 # Happy-s-Code
 This is going to be my first repository.
 <br>
-Author : Harman Kamboj
+Author : Harman Kamboj From Rudrapur.
